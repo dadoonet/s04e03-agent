@@ -1,4 +1,4 @@
-# Demo script used for Elastic Daily Bytes S04E03 - Cloud - ELastic Agent Ingestion
+# Demo script used for Elastic Daily Bytes S04E03 - Cloud - Elastic Agent Ingestion
 
 ![Cloud - ELastic Agent Ingestion](images/00-talk.png "Cloud - ELastic Agent Ingestion")
 
